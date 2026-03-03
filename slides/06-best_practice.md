@@ -8,12 +8,12 @@ footer: "<a href='https://github.com/digital-work-lab/open-source-project/issues
 
 <!-- _class: centered -->
 
-# WI-Project: Open source project
+# The open source project
 
 ## Best practice session
 
-Prof. Dr. Gerit Wagner  
-Faculty of Information Systems and Applied Computer Sciences  
+Prof. Dr. Gerit Wagner
+Faculty of Information Systems and Applied Computer Sciences
 Otto-Friedrich-Universität Bamberg
 
 ![center width:150px](../assets/qr-open-source-project.png)
@@ -29,7 +29,7 @@ Our objectives for today are to discuss and overcome current challenges related 
 - [Programming](#programming): Python, Python packages, and CoLRev
 - [Teamwork](#teamwork): Task distribution, forks, branches, and roles in the team
 
-<!-- 
+<!--
 - Discuss current challenges and how they can be addressed
 - Facilitate the practical application of Git commands and Python coding from previous sessions -->
 
@@ -48,7 +48,7 @@ The focus is on **helping teams organize their work effectively**. To this end, 
 - Are you working on Codespaces or in a local environment?
 - What errors and challenges have come up?
 
-<!-- 
+<!--
 - What are your best practices for the setup?
 
 Summarize the work status per group:
@@ -62,7 +62,7 @@ Summarize the work status per group:
 # Technical setup: Sources of errors
 
 - Errors may arise only in specific settings, i.e., versions of operating systems, Python, package managers, dependencies, and CoLRev.
-- What we do to identify and fix errors: 
+- What we do to identify and fix errors:
 
     - Run [matrix tests](https://github.com/CoLRev-Environment/colrev/actions/workflows/tests.yml) covering 16 different environments
     - Reduce dependencies
@@ -145,7 +145,7 @@ blockquote {
 
 > \* Normally, we give **one grade per group**. We will check individual Git contributions. We can assign different grades for group members, with a **bonus** for those who contribute more.
 
-<!-- 
+<!--
 - Which roles should exist?
 
 - **Which roles should exist?**: Discuss and clarify roles within the team.
@@ -162,7 +162,7 @@ blockquote {
 
 # Teamwork: Best practices (branch setup)
 
-<!-- - Follow the [branching strategy](https://digital-work-lab.github.io/open-source-project/output/02-git.html#25) 
+<!-- - Follow the [branching strategy](https://digital-work-lab.github.io/open-source-project/output/02-git.html#25)
 **Which branching / merging strategy should we select?**
 -->
 
@@ -192,7 +192,7 @@ Raise them directly or add them below (anonymously):
 
 <iframe src="https://rustpad.io/#WjqD80" width="100%" height="400px" style="border:none;"></iframe>
 
-<!-- 
+<!--
 
 ---
 
@@ -224,14 +224,14 @@ blockquote {
 After the introductory sessions, the stage is yours.
 
 - You have six weeks to complete the project.
-- Remember: We are here to support you! 
+- Remember: We are here to support you!
 - To discuss your plans, current challenges, and next steps, schedule a hacking session:
 
 <br>
 
 <div style="text-align: center;">
-  <a href="https://calendly.com/gerit-wagner/30min" 
-     style="display: inline-block; background-color: #28a745; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px;" 
+  <a href="https://calendly.com/gerit-wagner/30min"
+     style="display: inline-block; background-color: #28a745; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px;"
      target="_blank">
     Schedule a meeting
   </a>

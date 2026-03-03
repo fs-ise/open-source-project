@@ -8,12 +8,12 @@ footer: "<a href='https://github.com/digital-work-lab/open-source-project/issues
 
 <!-- _class: centered -->
 
-# WI-Project: Open source project
+# The open source project
 
 ## The review session
 
-Prof. Dr. Gerit Wagner  
-Faculty of Information Systems and Applied Computer Sciences  
+Prof. Dr. Gerit Wagner
+Faculty of Information Systems and Applied Computer Sciences
 Otto-Friedrich-Universität Bamberg
 
 ![center width:150px](../assets/qr-open-source-project.png)
@@ -79,7 +79,7 @@ Your feedback for us:
 - You will be added as a contributor on GitHub (to opt out, e-mail me).
 - Consider mentioning the contribution in your CV:
 
-**Open source contributions**  
+**Open source contributions**
 CoLRev - An open source environment for collaborative literature reviews.
 
 - Role: Contributor/Developer
@@ -88,7 +88,7 @@ CoLRev - An open source environment for collaborative literature reviews.
 - Repository: [CoLRev on GitHub](https://github.com/CoLRev-Environment/colrev)
 - DOI: 10.5281/zenodo.11668338
 
-<!-- 
+<!--
 
 # How this project may benefit you
 
@@ -105,7 +105,7 @@ CoLRev - An open source environment for collaborative literature reviews.
 
 # Summary (II)
 
-**Thank you for your contribution!**  
+**Thank you for your contribution!**
 Remember - your work helps researchers. Many have already commended CoLRev, including Guy Paré, Piers Steel, and Blair Wang 🎉 🙌 🎊
 
 - Grades will be entered in FlexNow.

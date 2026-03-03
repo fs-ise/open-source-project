@@ -8,12 +8,12 @@ footer: "<a href='https://github.com/digital-work-lab/open-source-project/issues
 
 <!-- _class: centered -->
 
-# WI-Project: Open source project
+# The open source project
 
 ## Introduction to Python (3): Creating a Python package
 
-Prof. Dr. Gerit Wagner  
-Faculty of Information Systems and Applied Computer Sciences  
+Prof. Dr. Gerit Wagner
+Faculty of Information Systems and Applied Computer Sciences
 Otto-Friedrich-Universität Bamberg
 
 ![center width:150px](../assets/qr-open-source-project.png)
@@ -39,7 +39,7 @@ Otto-Friedrich-Universität Bamberg
 
 `uv` is a modern, fast tool for managing Python projects. It does not come with Python.
 
-**To install `uv`:**  
+**To install `uv`:**
 (Only needs to be done once)
 
 ```bash

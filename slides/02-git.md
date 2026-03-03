@@ -8,12 +8,12 @@ footer: "<a href='https://github.com/digital-work-lab/open-source-project/issues
 
 <!-- _class: centered -->
 
-# WI-Project: Open source project
+# The open source project
 
 ## Introduction to Git
 
-Prof. Dr. Gerit Wagner  
-Faculty of Information Systems and Applied Computer Sciences  
+Prof. Dr. Gerit Wagner
+Faculty of Information Systems and Applied Computer Sciences
 Otto-Friedrich-Universität Bamberg
 
 ![center width:150px](../assets/qr-open-source-project.png)
@@ -61,9 +61,9 @@ blockquote {
 
 Understand and use Git to develop software in teams.
 
-**Part 1**: Branching  
-**Part 2**: Committing  
-**Part 3**: Collaborating  
+**Part 1**: Branching
+**Part 2**: Committing
+**Part 3**: Collaborating
 
 Each part starts with the **concepts** before the **practice** session.
 
@@ -130,7 +130,7 @@ blockquote {
 - Commits form a **directed acyclic graph (DAG)**, meaning all commits can have one or more children and one or more parents (except for the first commit, which has no parent). Closed directed cycles are not allowed.
 - With the **git branch \<branch-name\>** command, a separate line of commits can be started, i.e., one where different lines of commits are developed from the same parent. The branch pointer typically points at the latest commit in the line.
 - With the **git switch \<branch-name\>** command, we can select the branch on which we want to work. Switch effectively moves the **HEAD** pointer, which points to a particular branch and indicates where new commits are added.
-- With the **git merge \<other-branch\>** command, separate lines of commits can be brought together, i.e., creating a commit with two parents. The *merge commit* integrates the contents from the *\<other-branch\>* into the branch that is currently selected. The *\<other-branch\>* is not changed. 
+- With the **git merge \<other-branch\>** command, separate lines of commits can be brought together, i.e., creating a commit with two parents. The *merge commit* integrates the contents from the *\<other-branch\>* into the branch that is currently selected. The *\<other-branch\>* is not changed.
 - By default, Git sets up a branch named "main".
 
 > Note: Arrows point from children to parent commits.
@@ -221,14 +221,14 @@ Open the notebook for practicing Git committing:
 
 ---
 
-# Transfer challenges I 
+# Transfer challenges I
 
 Consider how the **git switch** (or the revert/pull/checkout) command affects the Git areas. How does it affect the working directory?
 
 <!--
 Do you see any challenges?
 - Try to reproduce the situation
-(stash) 
+(stash)
 
 2. Git provides the option to edit prior commits using an interactive rebase, such as the **git rebase -i**. How would that affect the following commits?
 
@@ -237,7 +237,7 @@ git questions: understand linearized git history displayed on GitHub / reading g
 Illustrate on the whiteboard: new/alternative commit with the same parent, all following commits are applied on top of the new commit
 - commit SHAs change!
 - Refer to the slide on commits
-- Maybe even illustrate 
+- Maybe even illustrate
 -->
 
 ---
@@ -317,7 +317,7 @@ This model works if you are a maintainer of the remote/origin, i.e., if you have
 - It is good practice to regularly **sync** the `main` branches (on GitHub) and merge the changes into your working branches (locally or on GitHub).
 - Syncing changes may be necessary to get bug fixes from the original repository and to prevent diverging histories (potential merge conflicts in the pull request).
 
-<!-- 
+<!--
 
 # Remotes and branches
 
@@ -340,7 +340,7 @@ This model works if you are a maintainer of the remote/origin, i.e., if you have
 
 
 Note: pull requests are just pointers (like branches/HEAD, they move with the branch)
- pull --rebase (we discussed interactive rebase before) 
+ pull --rebase (we discussed interactive rebase before)
 
 - GitHub offers the possibility to edit files directly. Are all three Git areas available in this setting?
  -->
@@ -359,7 +359,7 @@ This notebook is not part of the Git session and is intended for you to work on 
 
 We have prepared a tutorial for CoLRev:
 
-- [colrev-tutorial](https://github.com/CoLRev-Environment/colrev-tutorial). You can run it in a Codespace environment. It contains a notebook (`.devcontainer/tutorial.ipynb`) explaining how to set up a CoLRev repository, complete the different steps, and analyze how the dataset changes. 
+- [colrev-tutorial](https://github.com/CoLRev-Environment/colrev-tutorial). You can run it in a Codespace environment. It contains a notebook (`.devcontainer/tutorial.ipynb`) explaining how to set up a CoLRev repository, complete the different steps, and analyze how the dataset changes.
 - In addition, a brief overview is available on [YouTube](https://www.youtube.com/watch?v=yfGGraQC6vs).
 
 We invite you to work through the notebook before the next session.

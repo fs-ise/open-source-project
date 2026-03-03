@@ -8,12 +8,12 @@ footer: "<a href='https://github.com/digital-work-lab/open-source-project/issues
 
 <!-- _class: centered -->
 
-# WI-Project: Open source project
+# The open source project
 
 ## Introduction to Python (1)
 
-Prof. Dr. Gerit Wagner  
-Faculty of Information Systems and Applied Computer Sciences  
+Prof. Dr. Gerit Wagner
+Faculty of Information Systems and Applied Computer Sciences
 Otto-Friedrich-Universität Bamberg
 
 ![center width:150px](../assets/qr-open-source-project.png)
@@ -83,7 +83,7 @@ The setup can run in the background while we focus on the concepts.
 
 ![width:700px center](../assets/python_package.PNG)
 
-<!-- 
+<!--
 ---
 
 For the tutorial, we switch to the `tutorial_2024_04` branch:

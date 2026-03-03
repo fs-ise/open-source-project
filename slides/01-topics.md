@@ -8,12 +8,12 @@ footer: "<a href='https://github.com/digital-work-lab/open-source-project/issues
 
 <!-- _class: centered -->
 
-# WI-Project: Open source project
+# The open source project
 
 ## Topics
 
-Prof. Dr. Gerit Wagner  
-Faculty of Information Systems and Applied Computer Sciences  
+Prof. Dr. Gerit Wagner
+Faculty of Information Systems and Applied Computer Sciences
 Otto-Friedrich-Universität Bamberg
 
 ![center width:150px](../assets/qr-open-source-project.png)
@@ -37,7 +37,7 @@ Otto-Friedrich-Universität Bamberg
 - Use Git and GitHub for versioning and collaboration
 - Git quickly established itself as the most popular version control system
 - As a prominent example, Microsoft has acquired GitHub and moved the source code of Windows to Git ([1](https://www.golem.de/news/gvfs-windows-team-nutzt-fast-vollstaendig-git-1705-128039.html))
-- Many companies have public GitHub programs and share parts of their work as open source (e.g., [Google](https://github.com/google) or [Meta](https://github.com/facebook)) 
+- Many companies have public GitHub programs and share parts of their work as open source (e.g., [Google](https://github.com/google) or [Meta](https://github.com/facebook))
 
 ![bg right:40% width:350px](../assets/git-diffusion.png)
 
@@ -136,10 +136,10 @@ Evaluation is contingent on completing the deliverables listed [here](https://di
 
 **Evaluation components**
 
-- **Code submitted in the pull request (70%)**  
+- **Code submitted in the pull request (70%)**
   Assessment of functionality, overall code quality, and implementation of feedback.
 
-- **Code review session (30%)**  
+- **Code review session (30%)**
   Focus on collaboration, version control practices, and understanding of code.
 
 **Not considered in the evaluation**
@@ -241,7 +241,7 @@ We value feedback — please let us know what works and how we can improve ♡
 
 ![bg right:32% width:400px](../assets/evaluation_results.png)
 
-<!-- 
+<!--
 ---
 
 # We value your feedback and suggestions
@@ -257,6 +257,6 @@ We encourage you to share your feedback and suggestions on our teaching material
 
 Your feedback plays a crucial role in helping us align with our core goals of **impact in research, teaching, and practice**. By contributing your suggestions, you help us further our commitment to **rigor**, **openness** and **participation**. Together, we can continuously enhance our work by contributing to **continuous learning** and collaboration across our community.
 
-Visit this <a href="https://digital-work-lab.github.io/handbook/docs/10-lab/10_processes/10.01.goals.html" target="_blank">page</a> to learn more about our goals:  🚀 🛠️ ♻️ 🙏 🧑‍🎓️ . 
+Visit this <a href="https://digital-work-lab.github.io/handbook/docs/10-lab/10_processes/10.01.goals.html" target="_blank">page</a> to learn more about our goals:  🚀 🛠️ ♻️ 🙏 🧑‍🎓️ .
 
 -->
