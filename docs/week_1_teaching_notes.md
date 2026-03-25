@@ -172,11 +172,11 @@ Challenge: set up your own environment
 
 Any questions?
 
-Briefly show/explain the [page](https://digital-work-lab.github.io/open-source-project/){: target="_blank"}: materials and deliverables
+Briefly show/explain the [page](https://fs-ise.github.io/open-source-project/){: target="_blank"}: materials and deliverables
 
 Mention our comprehensive improvement efforts. We already have very good evaluations, but we stretch to improve even more!
 
 - Encourage feedback (last slide)
-- Show issues (improvement): https://github.com/digital-work-lab/open-source-project/issues/8
-- We invest a lot of effort (show https://github.com/digital-work-lab/open-source-project/graphs/contributors)
+- Show issues (improvement): https://github.com/fs-ise/open-source-project/issues/8
+- We invest a lot of effort (show https://github.com/fs-ise/open-source-project/graphs/contributors)
 - We even published a Teaching Tip (on Git)

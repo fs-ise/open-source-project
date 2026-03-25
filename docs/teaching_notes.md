@@ -37,7 +37,7 @@ Based on the [pedagogical concept](pedagogy.html). Administrative tasks are [her
 
 > The overlap is a bit unfortunate and it is difficult for me to understand whether you will be able to contribute to the project work if you miss these sessions. At the same time, I would like you to participate in the project, and prior experience with Python and Git certainly helps.
 > 
-> What I would suggest going forward is to check the materials of the sessions (available at https://digital-work-lab.github.io/open-source-project/), and to start finding a team (as described in the slides for the first session). Naturally, we expect everyone, including yourself, to contribute equally to the project.
+> What I would suggest going forward is to check the materials of the sessions (available at https://fs-ise.github.io/open-source-project/), and to start finding a team (as described in the slides for the first session). Naturally, we expect everyone, including yourself, to contribute equally to the project.
 > 
 > If you have any questions on the process or materials, please let me know - I am happy to help.
 
@@ -51,13 +51,13 @@ Based on the [pedagogical concept](pedagogy.html). Administrative tasks are [her
 ## Week 1: Topics <a id="topics"></a>
 
 - [x] Send out [welcome and information mailing](mailings.html#welcome) before the first session
-- [x] Link the [feedback issue](https://github.com/digital-work-lab/open-source-project/issues){: target="_blank"} in VC, explain our process of evaluation and improvement, summarize our improvements from last semester
+- [x] Link the [feedback issue](https://github.com/fs-ise/open-source-project/issues){: target="_blank"} in VC, explain our process of evaluation and improvement, summarize our improvements from last semester
 
 ## Week 2: Git  <a id="git"></a>
 
 - [x] Check whether the `rec_dict.patch` applies (`git diff > rec_dict.patch`)
 - [x] Carefully prepare the explanation of branching and committing (focusing on the **states of a file** and explaining the commands and state changes based on the workflow).
-- [x] Print some of the [overviews](https://github.com/digital-work-lab/practice-git/blob/main/notebooks/img/overview-task.pdf){: target="_blank"}
+- [x] Print some of the [overviews](https://github.com/fs-ise/practice-git/blob/main/notebooks/img/overview-task.pdf){: target="_blank"}
 - [x] Send out [comment-on-issues mailing](mailings.html#comment-issues)
 
 ## Week 3: Python <a id="python"></a>
@@ -153,7 +153,7 @@ def _simple_api_search(self, query: str) -> None:
 {: .highlight }
 > The code review session should be in my office (with a Computer screen connected via a long HDMI cable).
 
-- [ ] Print and pre-fill [evaluation sheets](https://github.com/digital-work-lab/open-source-project/tree/main/assets/evaluation){: target="_blank"}
+- [ ] Print and pre-fill [evaluation sheets](https://github.com/fs-ise/open-source-project/tree/main/assets/evaluation){: target="_blank"}
 - [ ] Check whether connectors (e.g., HDMI) are required and provide them
 - [ ] If projects require access tokens (API keys), provide them to the group
 - [ ] Remind students to complete the evaluation

@@ -252,10 +252,10 @@ VC post (27.11.24)
 
 {: .highlight }
 > 🎓 Heute haben Sie außerdem die Gelegenheit, uns bei der **Choose-a-Chair Messe** persönlich zu treffen. Gerne sprechen wir mit Ihnen über mögliche Abschlussarbeitsthemen:  
-> [Themen für Abschlussarbeiten](https://digital-work-lab.github.io/theses/docs/topics.html){: target="_blank"}  
+> [Themen für Abschlussarbeiten](https://fs-ise.github.io/theses/docs/topics.html){: target="_blank"}  
 >
 > 🎓 Additionally, today’s **Choose-a-Chair Fair** offers a chance to meet us in person. Feel free to discuss potential thesis topics with us:  
-> [Thesis Topics](https://digital-work-lab.github.io/theses/docs/topics.html){: target="_blank"}  
+> [Thesis Topics](https://fs-ise.github.io/theses/docs/topics.html){: target="_blank"}  
 
 **VC Post (German)**
 
@@ -268,7 +268,7 @@ VC post (27.11.24)
 > ✉️ Die Evaluation des WI-Projekts haben Sie per E-Mail erhalten. Wir würden uns freuen, wenn Sie sich einen Moment Zeit nehmen, um uns Ihr Feedback zu geben. Ihre Rückmeldungen helfen uns, zukünftige Projekte weiter zu verbessern.  
 >  
 > 💡 Parallel dazu haben wir Verbesserungsvorschläge für das kommende Semester in folgendem Issue gesammelt:  
-> [Verbesserungsvorschläge](https://github.com/digital-work-lab/open-source-project/issues/8){: target="_blank"}  
+> [Verbesserungsvorschläge](https://github.com/fs-ise/open-source-project/issues/8){: target="_blank"}  
 >  
 > Ich lade Sie herzlich ein, Ihre Ideen und Anregungen dort zu ergänzen.  
 >  
@@ -286,7 +286,7 @@ VC post (27.11.24)
 > ✉️ You should have received the WI project evaluation via email. We would greatly appreciate it if you could take a moment to provide your feedback. Your insights are invaluable in helping us improve future projects.  
 >  
 > 💡 In parallel, we’ve gathered suggestions for the next semester in this GitHub issue:  
-> [Suggestions for Improvement](https://github.com/digital-work-lab/open-source-project/issues/8){: target="_blank"}  
+> [Suggestions for Improvement](https://github.com/fs-ise/open-source-project/issues/8){: target="_blank"}  
 >  
 > You are warmly invited to contribute your ideas and suggestions there. 
 >  
@@ -302,7 +302,7 @@ VC post (27.11.24)
 > ich möchte Ihnen einige wichtige Informationen zur **Code-Review Session** zukommen lassen:  
 >  
 > 📋 Der Ablauf ist auf den Folien beschrieben und über folgenden Link zugänglich:  
-> [Code Review Details](https://digital-work-lab.github.io/open-source-project/output/07-code_review.html){: target="_blank"}  
+> [Code Review Details](https://fs-ise.github.io/open-source-project/output/07-code_review.html){: target="_blank"}  
 >  
 > 💡 Die Hauptidee ist es, die Perspektive eines Maintainers einzunehmen und Ihr im Projekt erworbenes Wissen auf ein ähnliches Thema anzuwenden. Dabei können Sie:  
 > - Ihre Kenntnisse in **Git, Python und CoLRev** demonstrieren,  
@@ -328,7 +328,7 @@ VC post (27.11.24)
 > Here are some important details about the **Code Review Session**:  
 >  
 > 📋 The procedure is described on the slides, accessible via the following link:  
-> [Code Review Details](https://digital-work-lab.github.io/open-source-project/output/07-code_review.html){: target="_blank"}  
+> [Code Review Details](https://fs-ise.github.io/open-source-project/output/07-code_review.html){: target="_blank"}  
 >  
 > 💡 The primary idea is to adopt the perspective of a maintainer and apply the knowledge you’ve gained in the project to a similar topic. During the session, you will:  
 > - Demonstrate your skills in **Git, Python, and CoLRev**,  
@@ -359,7 +359,7 @@ VC post (27.11.24)
 > 
 > Ihr Feedback aus der letzten Session und die Weiterentwicklung des Open Source-Projekts können Sie hier nachverfolgen bzw. weiterhin mit Vorschlägen ergänzen: 
 > 
-> 👉 [Improvement Issue](https://github.com/digital-work-lab/open-source-project/issues/10){: target="_blank"}  
+> 👉 [Improvement Issue](https://github.com/fs-ise/open-source-project/issues/10){: target="_blank"}  
 >
 > Es hat mir viel Spaß gemacht, Ihre Arbeit zu begleiten und Ich freue mich sehr, dass Ihr Code in Kürze von CoLRev-NutzerInnen verwendet werden kann 🚀
 > 
@@ -377,7 +377,7 @@ VC post (27.11.24)
 > 
 > You can track your feedback from the last session and the further development of the Open Source Project here, and continue to contribute suggestions:
 > 
-> 👉 [Improvement Issue](https://github.com/digital-work-lab/open-source-project/issues/10){: target="_blank"}  
+> 👉 [Improvement Issue](https://github.com/fs-ise/open-source-project/issues/10){: target="_blank"}  
 > 
 > It has been a pleasure to guide your work, and I am thrilled that your code will soon be available for CoLRev users 🚀
 > 

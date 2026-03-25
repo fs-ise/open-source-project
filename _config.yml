@@ -4,13 +4,13 @@ theme: just-the-docs
 
 url: https://just-the-docs.github.io
 
-repository: digital-work-lab/open-source-project
+repository: fs-ise/open-source-project
 
 gh_edit_link: true
-gh_edit_link_text: 'Help improve this page'
-gh_edit_repository: 'https://github.com/digital-work-lab/open-source-project'
-gh_edit_branch: 'main'
-gh_edit_view_mode: 'tree'
+gh_edit_link_text: "Help improve this page"
+gh_edit_repository: "https://github.com/fs-ise/open-source-project"
+gh_edit_branch: "main"
+gh_edit_view_mode: "tree"
 
 enable_copy_code_button: true
 
@@ -38,12 +38,12 @@ callouts:
     title: See also
     color: green
 
-exclude: ['session_5_presentations']
+exclude: ["session_5_presentations"]
 
 logo: "/assets/open-source-project.png"
 
 aux_links:
   "Repository":
-    - "https://github.com/digital-work-lab/open-source-project"
+    - "https://github.com/fs-ise/open-source-project"
   "Improvement":
-    - "https://github.com/digital-work-lab/open-source-project/blob/main/CONTRIBUTING.md"
+    - "https://github.com/fs-ise/open-source-project/blob/main/CONTRIBUTING.md"

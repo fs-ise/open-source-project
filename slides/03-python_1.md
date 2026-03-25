@@ -3,7 +3,7 @@ marp: true
 header: 'Open Source Project: Introduction to Python'
 theme: ub-theme
 paginate: true
-footer: "<a href='https://github.com/digital-work-lab/open-source-project/issues/new?template=Blank+issue' target='_blank'>♻️</a> <a href='https://github.com/digital-work-lab/open-source-project/edit/main/slides/03-python_1.md' target='_blank'>🛠️</a>"
+footer: "<a href='https://github.com/fs-ise/open-source-project/issues/new?template=Blank+issue' target='_blank'>♻️</a> <a href='https://github.com/fs-ise/open-source-project/edit/main/slides/03-python_1.md' target='_blank'>🛠️</a>"
 ---
 
 <!-- _class: centered -->
@@ -43,7 +43,7 @@ Otto-Friedrich-Universität Bamberg
 
 # Start the Codespace
 
-Open the Notebook: [![Open Notebook](https://img.shields.io/badge/Open-Jupyter%20Notebook-blue)](https://digital-work-lab.github.io/open-source-project/docs/week_3_python_notebook_1.html)
+Open the Notebook: [![Open Notebook](https://img.shields.io/badge/Open-Jupyter%20Notebook-blue)](https://fs-ise.github.io/open-source-project/docs/week_3_python_notebook_1.html)
 
 Start the Codespace in the `tutorial_python` branch of the CoLRev upstream repository.
 

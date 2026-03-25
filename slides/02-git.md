@@ -3,7 +3,7 @@ marp: true
 header: 'Open Source Project: Introduction to Git'
 theme: ub-theme
 paginate: true
-footer: "<a href='https://github.com/digital-work-lab/open-source-project/issues/new?template=Blank+issue' target='_blank'>♻️</a> <a href='https://github.com/digital-work-lab/open-source-project/edit/main/slides/02-git.md' target='_blank'>🛠️</a>"
+footer: "<a href='https://github.com/fs-ise/open-source-project/issues/new?template=Blank+issue' target='_blank'>♻️</a> <a href='https://github.com/fs-ise/open-source-project/edit/main/slides/02-git.md' target='_blank'>🛠️</a>"
 ---
 
 <!-- _class: centered -->
@@ -75,7 +75,7 @@ In the practice sessions:
 
 ![bg right:45% width:620px](../assets/reorder.png)
 
-> \* Note: This session is based on our [unique and peer-reviewed approach](https://digital-work-lab.github.io/rethink-git-teaching/).
+> \* Note: This session is based on our [unique and peer-reviewed approach](https://fs-ise.github.io/rethink-git-teaching/).
 
 ---
 
@@ -85,7 +85,7 @@ Start a Codespace for CoLRev [here](https://github.com/CoLRev-Environment/colrev
 
 Open the notebook for practicing Git branching:
 
-[![Open Notebook](https://img.shields.io/badge/Open-Jupyter%20Notebook-blue)](https://digital-work-lab.github.io/open-source-project/docs/week_2_git_notebook_branching.html)
+[![Open Notebook](https://img.shields.io/badge/Open-Jupyter%20Notebook-blue)](https://fs-ise.github.io/open-source-project/docs/week_2_git_notebook_branching.html)
 
 ---
 
@@ -143,7 +143,7 @@ blockquote {
 
 Open the notebook for practicing Git branching:
 
-[![Open Notebook](https://img.shields.io/badge/Open-Jupyter%20Notebook-blue)](https://digital-work-lab.github.io/open-source-project/docs/week_2_git_notebook_branching.html)
+[![Open Notebook](https://img.shields.io/badge/Open-Jupyter%20Notebook-blue)](https://fs-ise.github.io/open-source-project/docs/week_2_git_notebook_branching.html)
 
 ---
 
@@ -217,7 +217,7 @@ To undo changes that are not yet committed, it is important to understand whethe
 
 Open the notebook for practicing Git committing:
 
-[![Open Notebook](https://img.shields.io/badge/Open-Jupyter%20Notebook-blue)](https://digital-work-lab.github.io/open-source-project/docs/week_2_git_notebook_committing.html)
+[![Open Notebook](https://img.shields.io/badge/Open-Jupyter%20Notebook-blue)](https://fs-ise.github.io/open-source-project/docs/week_2_git_notebook_committing.html)
 
 ---
 
@@ -246,7 +246,7 @@ Illustrate on the whiteboard: new/alternative commit with the same parent, all f
 
 Open the notebook for practicing the resolution of Git merge conflicts (related to branching and committing):
 
-[![Open Notebook](https://img.shields.io/badge/Open-Jupyter%20Notebook-blue)](https://digital-work-lab.github.io/open-source-project/docs/week_2_git_notebook_merge_conflict.html)
+[![Open Notebook](https://img.shields.io/badge/Open-Jupyter%20Notebook-blue)](https://fs-ise.github.io/open-source-project/docs/week_2_git_notebook_merge_conflict.html)
 
 ---
 
@@ -351,7 +351,7 @@ Note: pull requests are just pointers (like branches/HEAD, they move with the br
 
 This notebook is not part of the Git session and is intended for you to work on independently at home. If you have any questions, feel free to bring them up at the beginning of the next Python session. We’ll be happy to discuss them then!
 
-[![Open Notebook](https://img.shields.io/badge/Open-Jupyter%20Notebook-blue)](https://digital-work-lab.github.io/open-source-project/docs/week_2_git_notebook_collaboration.html)
+[![Open Notebook](https://img.shields.io/badge/Open-Jupyter%20Notebook-blue)](https://fs-ise.github.io/open-source-project/docs/week_2_git_notebook_collaboration.html)
 
 ---
 

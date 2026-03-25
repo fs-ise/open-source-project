@@ -55,7 +55,7 @@ In this session, we have covered the fundamentals of Git, including branching, c
 
 ## Pedagogical Foundations
 
-The foundations for the Git session are based on our recent paper (Wagner and Thurner 2025), which is peer-reviewed, based on pedagogical theory, and publicly accessible (see [link](https://digital-work-lab.github.io/rethink-git-teaching/){: target="_blank"}).
+The foundations for the Git session are based on our recent paper (Wagner and Thurner 2025), which is peer-reviewed, based on pedagogical theory, and publicly accessible (see [link](https://fs-ise.github.io/rethink-git-teaching/){: target="_blank"}).
 
 <div class="references">
     <p>Wagner, G., and Thurner, L. "Rethinking How We Teach Git: Recommendations and Practical Strategies for the Information Systems Curriculum". <i>Journal of Information Systems Education</i>, 36(1).</p>

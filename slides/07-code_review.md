@@ -3,7 +3,7 @@ marp: true
 header: 'Open Source Project: Code Review Session'
 theme: ub-theme
 paginate: true
-footer: "<a href='https://github.com/digital-work-lab/open-source-project/issues/new?template=Blank+issue' target='_blank'>♻️</a> <a href='https://github.com/digital-work-lab/open-source-project/edit/main/slides/07-code_review.md' target='_blank'>🛠️</a>"
+footer: "<a href='https://github.com/fs-ise/open-source-project/issues/new?template=Blank+issue' target='_blank'>♻️</a> <a href='https://github.com/fs-ise/open-source-project/edit/main/slides/07-code_review.md' target='_blank'>🛠️</a>"
 ---
 
 <!-- _class: centered -->
@@ -67,7 +67,7 @@ Our feedback for you:
 Your feedback for us:
 
 - Let us know how we can improve.
-- We have a [GitHub issue](https://github.com/digital-work-lab/open-source-project/issues) to document and track improvements.
+- We have a [GitHub issue](https://github.com/fs-ise/open-source-project/issues) to document and track improvements.
 - You should have received the evaluation survey.
 
 ![bg right:50% width:350px](../assets/feedback.jpg)
@@ -109,7 +109,7 @@ CoLRev - An open source environment for collaborative literature reviews.
 Remember - your work helps researchers. Many have already commended CoLRev, including Guy Paré, Piers Steel, and Blair Wang 🎉 🙌 🎊
 
 - Grades will be entered in FlexNow.
-- We supervise theses in the context of CoLRev (see [topics](https://digital-work-lab.github.io/theses/docs/topics.html) with programming label) - reach out if you are interested!
+- We supervise theses in the context of CoLRev (see [topics](https://fs-ise.github.io/theses/docs/topics.html) with programming label) - reach out if you are interested!
 - If you enjoyed the project, please help us spread the word and recommend our project!
 
 ![bg right:50% width:400px](../assets/Thank-you.jpg)

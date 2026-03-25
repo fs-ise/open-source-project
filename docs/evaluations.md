@@ -96,4 +96,4 @@ Note: The feedback is translated based on the [evaluations](https://digital-work
 
 ## How our students continue to be involved
 
-Several students have decided to build on the project and write their [thesis](https://digital-work-lab.github.io/theses/){: target="_blank"} in the context of CoLRev.
+Several students have decided to build on the project and write their [thesis](https://fs-ise.github.io/theses/){: target="_blank"} in the context of CoLRev.

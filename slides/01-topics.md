@@ -3,7 +3,7 @@ marp: true
 header: 'Open Source Project: Topics'
 theme: ub-theme
 paginate: true
-footer: "<a href='https://github.com/digital-work-lab/open-source-project/issues/new?template=Blank+issue' target='_blank'>♻️</a> <a href='https://github.com/digital-work-lab/open-source-project/edit/main/slides/01-topics.md' target='_blank'>🛠️</a>"
+footer: "<a href='https://github.com/fs-ise/open-source-project/issues/new?template=Blank+issue' target='_blank'>♻️</a> <a href='https://github.com/fs-ise/open-source-project/edit/main/slides/01-topics.md' target='_blank'>🛠️</a>"
 ---
 
 <!-- _class: centered -->
@@ -93,7 +93,7 @@ The following features stand out:
 
 ![width:750px center](../assets/agenda.png)
 
-Dates and rooms are available [online](https://digital-work-lab.github.io/open-source-project/#outline).
+Dates and rooms are available [online](https://fs-ise.github.io/open-source-project/#outline).
 
 ---
 
@@ -132,7 +132,7 @@ This process ensures that **all group members contribute fairly** and typically 
 
 # Evaluation scope
 
-Evaluation is contingent on completing the deliverables listed [here](https://digital-work-lab.github.io/open-source-project/#deliverables).
+Evaluation is contingent on completing the deliverables listed [here](https://fs-ise.github.io/open-source-project/#deliverables).
 
 **Evaluation components**
 
@@ -201,9 +201,9 @@ blockquote {
 
 **Complete the setup**
 
-- Register for the course on the *Virtual Campus* platform: [here](https://digital-work-lab.github.io/open-source-project/#participate) (password: OSP25#stud)
+- Register for the course on the *Virtual Campus* platform: [here](https://fs-ise.github.io/open-source-project/#participate) (password: OSP25#stud)
 - Create a GitHub account (using your student email address) to use [Codespaces](https://github.com/features/codespaces) in the next sessions
-- Read [how to use Codespaces](https://digital-work-lab.github.io/open-source-project/docs/week_1_codespaces.html)
+- Read [how to use Codespaces](https://fs-ise.github.io/open-source-project/docs/week_1_codespaces.html)
 
 > Challenge (optional): You can **set up your programming environment** (see instructions in the [CoLRev documentation](https://colrev-environment.github.io/colrev/dev_docs/setup.html)). This requires you to install and configure Git, Docker, pre-commit hooks, and venv. It will give you more control over and a deeper understanding of your programming environment.
 
@@ -227,7 +227,7 @@ blockquote {
 # 🛠️ We work hard to improve the course for you
 
 - We run evaluations at the end of each semester and make the results publicly available ([view results](https://digital-work-lab.github.io/handbook/docs/30-teaching/30_processes/30.21.evaluations.html#evaluation-results)).
-- We document how we implement your feedback and continuously improve the course ([see ongoing updates](https://github.com/digital-work-lab/open-source-project/issues?q=is%3Aissue%20Evaluation%20)).
+- We document how we implement your feedback and continuously improve the course ([see ongoing updates](https://github.com/fs-ise/open-source-project/issues?q=is%3Aissue%20Evaluation%20)).
 - We invite you to contribute directly to our teaching materials by submitting an issue ♻️ or suggesting edits 🛠️.
 - We actively engage in the pedagogical discourse in Information Systems by sharing teaching tips and inviting feedback from peers:
 
@@ -250,8 +250,8 @@ We encourage you to share your feedback and suggestions on our teaching material
 
 <br>
 
-<a href="https://github.com/digital-work-lab/open-source-project/issues/new" target="_blank"> ♻️ </a> Provide feedback by submitting an issue
-<a href="https://github.com/digital-work-lab/open-source-project/edit/main/slides/00-orga.md" target="_blank"> 🛠️ </a> Suggest specific changes by directly modifying the content
+<a href="https://github.com/fs-ise/open-source-project/issues/new" target="_blank"> ♻️ </a> Provide feedback by submitting an issue
+<a href="https://github.com/fs-ise/open-source-project/edit/main/slides/00-orga.md" target="_blank"> 🛠️ </a> Suggest specific changes by directly modifying the content
 
 <br>
 

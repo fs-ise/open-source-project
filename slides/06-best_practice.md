@@ -3,7 +3,7 @@ marp: true
 header: 'Open source project: Best-practice session'
 theme: ub-theme
 paginate: true
-footer: "<a href='https://github.com/digital-work-lab/open-source-project/issues/new?template=Blank+issue' target='_blank'>♻️</a> <a href='https://github.com/digital-work-lab/open-source-project/edit/main/slides/06-best_practice.md' target='_blank'>🛠️</a>"
+footer: "<a href='https://github.com/fs-ise/open-source-project/issues/new?template=Blank+issue' target='_blank'>♻️</a> <a href='https://github.com/fs-ise/open-source-project/edit/main/slides/06-best_practice.md' target='_blank'>🛠️</a>"
 ---
 
 <!-- _class: centered -->
@@ -162,7 +162,7 @@ blockquote {
 
 # Teamwork: Best practices (branch setup)
 
-<!-- - Follow the [branching strategy](https://digital-work-lab.github.io/open-source-project/output/02-git.html#25)
+<!-- - Follow the [branching strategy](https://fs-ise.github.io/open-source-project/output/02-git.html#25)
 **Which branching / merging strategy should we select?**
 -->
 
@@ -170,7 +170,7 @@ Recommended branch setup in your fork:
 
 1. Work on a shared **feature branch**, such as `unpaywall_search`. This is where your latest, working version is developed.
 2. Do not commit directly to `remotes/fork/main`. This branch should be kept in sync with `remotes/origin/main`.
-3. Regularly merge `remotes/origin/main` into `remotes/fork/main` and `remotes/fork/main` into your feature branch using merge commits (i.e., [sync](https://digital-work-lab.github.io/open-source-project/output/02-git.html#work-in-a-forked-repository), which will fast-forward, `git fetch`, `git switch feature_branch`, and `git merge main`).
+3. Regularly merge `remotes/origin/main` into `remotes/fork/main` and `remotes/fork/main` into your feature branch using merge commits (i.e., [sync](https://fs-ise.github.io/open-source-project/output/02-git.html#work-in-a-forked-repository), which will fast-forward, `git fetch`, `git switch feature_branch`, and `git merge main`).
 <!-- Note: the branching strategy is part of the best-practice session because it is useful when students have already thought about how to organize tasks. In the Git session, it would be too early in the group formation process. -->
 
 Optional: Merging into a target branch, i.e., your shared feature branch:
@@ -206,7 +206,7 @@ Raise them directly or add them below (anonymously):
 - However, pre-commit hooks should pass to ensure good code quality. Some of the failing tests have been fixed recently.
 
 **How can I get access rights to create branches in the fork?**
-- Ask the team lead to invite you to the fork (see [step 2](https://digital-work-lab.github.io/open-source-project/output/02-git.html#32)).
+- Ask the team lead to invite you to the fork (see [step 2](https://fs-ise.github.io/open-source-project/output/02-git.html#32)).
 -->
 
 ---

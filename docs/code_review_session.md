@@ -15,11 +15,11 @@ Determine group matching:
 
 - Print evaluation sheets (prefill with code evaluation).
 
-https://digital-work-lab.github.io/open-source-project/docs/teaching_notes.html#week-12-code-review-session
+https://fs-ise.github.io/open-source-project/docs/teaching_notes.html#week-12-code-review-session
 
 - Print collaboration survey.
 
-https://github.com/digital-work-lab/git-collaboration/tree/main/Evaluation
+https://github.com/fs-ise/git-collaboration/tree/main/Evaluation
 
 - Summarize code changes for the feedback session.
 

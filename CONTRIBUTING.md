@@ -61,7 +61,7 @@ After you submit an issue, we'll label and triage it. Maintainers or other contr
 
 ### Feedback from Course Evaluations 🎓
 
-In addition to contributions made directly on GitHub, we regularly review student feedback collected at the end of each semester. Actionable insights from course evaluations are logged into our [issue tracker](https://github.com/digital-work-lab/open-source-project/issues) to ensure they are visible to the broader community and to help inform ongoing improvements.
+In addition to contributions made directly on GitHub, we regularly review student feedback collected at the end of each semester. Actionable insights from course evaluations are logged into our [issue tracker](https://github.com/fs-ise/open-source-project/issues) to ensure they are visible to the broader community and to help inform ongoing improvements.
 
 If you're a student user, you are welcome to reiterate or expand on those suggestions directly by opening an issue.
 
