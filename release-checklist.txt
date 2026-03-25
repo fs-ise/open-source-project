@@ -2,5 +2,6 @@
 
 - Run `git tag -s $VERSION` (format: "0.9.1").
 - Run `git push --atomic origin main $VERSION` and wait for the GitHub actions to complete successfully.
+- Update release information in `CITATION.cff`, including `version`, `doi`, `date-released
 
 Tag `WiSe2024/25` at the end of the semester.
