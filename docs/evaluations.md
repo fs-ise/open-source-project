@@ -65,10 +65,10 @@ xychart-beta
 {: .info }
 > **Evaluation reports**
 > 
-> - [WiSe 2024/26](../assets//student_evaluations/000110_20250126_WS24_25-Digital-Work-Projekt-B__Bachelorprojekt_aus_der_Fächergruppe_Wirtschaftsinformatik.pdf)
-> - [SuSe 2024](../assets//student_evaluations/000074_20240715_SS24-Digital-Work-Projekt-B.pdf)
-> - [WiSe 2023/24](../assets//student_evaluations/000061_20240130_WS2324_Evaluation_WI-Projekt.pdf)
-> - [SuSe 2023](../assets//student_evaluations/000033_20230723_SS23-Evaluation-Digital-Work-Projekt-B.pdf)
+> - [WiSe 2024/26](../assets/student_evaluations/000110_20250126_WS24_25-Digital-Work-Projekt-B__Bachelorprojekt_aus_der_Fächergruppe_Wirtschaftsinformatik.pdf)
+> - [SuSe 2024](../assets/student_evaluations/000074_20240715_SS24-Digital-Work-Projekt-B.pdf)
+> - [WiSe 2023/24](../assets/student_evaluations/000061_20240130_WS2324_Evaluation_WI-Projekt.pdf)
+> - [SuSe 2023](../assets/student_evaluations/000033_20230723_SS23-Evaluation-Digital-Work-Projekt-B.pdf)
 
 ## What our students say
 
