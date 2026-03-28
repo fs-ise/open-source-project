@@ -1,22 +1,46 @@
-cff-version: 1.2.0
-message: "If you use this software, please cite it as below."
+cff-version: "1.2.0"
 authors:
-  - family-names: "Wagner"
-    given-names: "Gerit"
+- family-names: Wagner
+  given-names: Gerit
+  orcid: "https://orcid.org/0000-0003-3926-7717"
+- family-names: Thurner
+  given-names: Laureen
+  orcid: "https://orcid.org/0009-0000-5716-5816"
+- family-names: Tang
+  given-names: Carlo
+  orcid: "https://orcid.org/0009-0009-3168-4859"
+- family-names: Ott
+  given-names: Stella
+  orcid: "https://orcid.org/0009-0002-5191-1237"
+doi: 10.5281/zenodo.19225336
+message: If you use this software, please cite our article in the
+  Journal of Open Source Software.
+preferred-citation:
+  authors:
+  - family-names: Wagner
+    given-names: Gerit
     orcid: "https://orcid.org/0000-0003-3926-7717"
-  - family-names: "Thurner"
-    given-names: "Laureen"
+  - family-names: Thurner
+    given-names: Laureen
     orcid: "https://orcid.org/0009-0000-5716-5816"
-  - family-names: "Tang"
-    given-names: "Carlo"
+  - family-names: Tang
+    given-names: Carlo
     orcid: "https://orcid.org/0009-0009-3168-4859"
-  - family-names: "Ott"
-    given-names: "Stella"
+  - family-names: Ott
+    given-names: Stella
     orcid: "https://orcid.org/0009-0002-5191-1237"
-title: "fs-ise/open-source-project"
-version: 0.4.0
-identifiers:
-  - type: doi
-    value: 10.5281/zenodo.19225336
-date-released: 2026-02-25
-url: "https://github.com/fs-ise/open-source-project?tab=readme-ov-file"
+  date-published: 2026-03-28
+  doi: 10.21105/jose.00292
+  issn: 2577-3569
+  issue: 97
+  journal: Journal of Open Source Education
+  publisher:
+    name: Open Journals
+  start: 292
+  title: "Teaching Python package development: A structured course with
+    learning resources and an instructor's guide"
+  type: article
+  url: "https://jose.theoj.org/papers/10.21105/jose.00292"
+  volume: 9
+title: "Teaching Python package development: A structured course with
+  learning resources and an instructor's guide"
