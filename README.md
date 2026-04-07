@@ -107,6 +107,8 @@ To reuse the materials, you can copy individual elements or [fork](https://githu
 
 Wagner, G., and Thurner, L. "Rethinking How We Teach Git: Recommendations and Practical Strategies for the Information Systems Curriculum". *Journal of Information Systems Education*, 36(1). (see [summary](https://fs-ise.github.io/rethink-git-teaching/))
 
+Wagner, G., Thurner, L., Tang, C., & Ott, S. (2026). Teaching Python package development: A structured course with learning resources and an instructor's guide. *Journal of Open Source Education* 9(97), 292. https://doi.org/10.21105/JOSE.00292
+
 ## Related resources
 
 - [Python Programming for Data Science](https://www.tomasbeuzen.com/python-programming-for-data-science)
